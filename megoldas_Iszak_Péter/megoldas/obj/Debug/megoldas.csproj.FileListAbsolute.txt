@@ -1,0 +1,56 @@
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\megoldas.csprojAssemblyReference.cache
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\laprendeles.Form1.resources
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\megoldas.csproj.GenerateResource.cache
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\EntityFramework.dll
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\System.Data.SQLite.dll
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\EntityFramework.xml
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\System.Data.SQLite.xml
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\megoldas.csproj.CopyComplete
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\megoldas.exe.config
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\megoldas.exe
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\bin\Debug\megoldas.pdb
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\megoldas.Properties.Resources.resources
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\megoldas.exe
+C:\Users\nagyi\Documents\Suli\Programozás tanítása\@ szoftverfejlesztők 2020-2021\üres AB-project\megoldas\megoldas\obj\Debug\megoldas.pdb
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\megoldas.exe.config
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\megoldas.exe
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\megoldas.pdb
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.dll
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.SqlServer.dll
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.dll
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.EF6.dll
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.Linq.dll
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.xml
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.SqlServer.xml
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.xml
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csprojAssemblyReference.cache
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\laprendeles.Form1.resources
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.Properties.Resources.resources
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csproj.GenerateResource.cache
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csproj.CoreCompileInputs.cache
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csproj.CopyComplete
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.exe
+S:\@C#\2020-21\13C\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.pdb
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\megoldas.exe.config
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\megoldas.exe
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\megoldas.pdb
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.dll
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.dll
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.xml
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\bin\Debug\System.Data.SQLite.xml
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csprojAssemblyReference.cache
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\laprendeles.Form1.resources
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.Properties.Resources.resources
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csproj.GenerateResource.cache
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csproj.CoreCompileInputs.cache
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.csproj.CopyComplete
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.exe
+D:\Code\AB\kezbesito\2018 okt laprendeles\megoldas\megoldas\obj\Debug\megoldas.pdb
